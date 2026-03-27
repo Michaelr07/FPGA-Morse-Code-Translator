@@ -5,3 +5,5 @@ For this project, I developed an International Morse Code Translator capable of 
 To enhance user interaction, the device has the following:
 
 Volume Control: Adjusted using 5 switches (SW15-11), allowing users to modify the amplitude of the sound output. Speed Control: Governed by 9 switches (SW10-2), this feature lets users set the pace of Morse code signals (one time unit). Mode Selection: A single switch (SW1) toggles between two output modes: Mode 0: Sound output Mode 1: LED output
+
+Demo Video: https://youtu.be/V_liOrKM8pI
